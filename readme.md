@@ -2,7 +2,7 @@
 
 Base docker image for Deep Learning
 
-> Ubuntu 16.04 + Python 3.5.3 + jypyter
+> Ubuntu 16.04 + Python 3.5.3 + jupyter
 
 ### To build
 
